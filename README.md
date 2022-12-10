@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nununu-py
+- 👋 Hi, I’m @nununu-py ( Adifta Wisnu Wardana )
 - 👀 I’m interested in python programing, data analysis and also data science
 - 🌱 I’m currently learning python, sql, and r programming
 - 💞️ I’m looking to collaborate on ...
