@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nununu-py&label=Profile%20views&color=0e75b6&style=flat" alt="nununu-py" /> </p>
 
-- 🌱 I’m currently learning: **Python, Java, SQL, NoSQL, R programming.**
+- 🌱 I’m currently learning: **Python, Java, R, SQL, NoSQL, Tableau.**
 
 - 📫 How to reach me: **adiftawisnu818@gmail.com**
 
