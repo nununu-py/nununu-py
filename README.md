@@ -23,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nununu-py&show_icons=true&locale=en" alt="nununu-py" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nununu-py&" alt="nununu-py" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nununu-py&show_icons=true&locale=en&layout=compact" alt="nununu-py" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nununu-py&" alt="nununu-py" /></p>
