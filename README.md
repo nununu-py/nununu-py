@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **adiftawisnu818@gmail.com**
 
-- ⚡ Fun fact: **I love night sky!**
+- ⚡ Fun fact: **I love the night sky!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
