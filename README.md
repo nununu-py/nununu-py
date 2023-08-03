@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/adifta-wisnu-wardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adifta-wisnu-wardana" height="30" width="40" /></a>
 <a href="https://kaggle.com/adiftawisnuwardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adiftawisnuwardana" height="30" width="40" /></a>
-<a href="https://instagram.com/nununu.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nununu.py" height="30" width="40" /></a>
 <a href="https://medium.com/@nununu_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nununu_py" height="30" width="40" /></a>
 <a href="https://discord.gg/nununu0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nununu0110" height="30" width="40" /></a>
+<a href="https://instagram.com/nununu.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nununu.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
